@@ -20,7 +20,9 @@
 [li] Robust image and video deduplication [/li]
 [/ul]
 
-[p] Be sure to visit the [a href="https://forum.photostructure.com"]forum[/a] for tips, support, and to vote on what features you want to see next. We also have a [a href="https://discord.gg/gU9h8uQTYw"]discord[/a]!
+[p] PhotoStructure is extremely configurable. [b][a href="https://photostructure.com/faq/environment-variables/"]See the documentation for details.[/a][/b]
+
+[p] Be sure to visit [b][a href="https://forum.photostructure.com"]PhotoStructure's forum[/a][/b] for tips, support, and to vote on what features you want to see next. We also have a [b][a href="https://discord.gg/gU9h8uQTYw"]discord[/a][/b]!
 
 [p] [b]To import additional directories or volumes:[/b]
 
